@@ -1,0 +1,2 @@
+class ArtistinstrumentController < ApplicationController
+end
